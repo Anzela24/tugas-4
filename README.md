@@ -7,8 +7,9 @@
 
 Flawchart
 
+![jkgl](https://user-images.githubusercontent.com/56473376/69933401-26e65000-1501-11ea-989e-db1769c4a36e.png)
 
-![flwchrt](https://user-images.githubusercontent.com/56473376/69911921-08c31600-1455-11ea-8c28-f92a8157770e.png)
+
 
 penjelasan
 
